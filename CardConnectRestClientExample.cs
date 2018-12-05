@@ -8,7 +8,7 @@ namespace CardConnectRestClientExample
 {
     class CardConnectRestClientExample
     {
-        private static String ENDPOINT = "https://sitename.prinpay.com:6443/cardconnect/rest";
+        private static String ENDPOINT = "https://sitename.cardconnect.com:6443/cardconnect/rest";
         private static String USERNAME = "username";
         private static String PASSWORD = "password123";
 
