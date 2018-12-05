@@ -25,6 +25,6 @@ project name and selecting 'Add Reference...'.  Click on the 'Browse' tab and fi
 .dll files, select them and clicke the 'OK' button.
 
 Then modify the CardConnectRestClientExample.cs file and set the following variables:
- - ENDPOINT - Set to your site's base rest URL (eg: https://sitename.prinpay.com:6443/cardconnect/rest/)
+ - ENDPOINT - Set to your site's base rest URL (eg: https://sitename.cardconnect.com:6443/cardconnect/rest/)
  - USERNAME - Your CardConnect API username
  - PASSWORD - Your CardConnect API password
