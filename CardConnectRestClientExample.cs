@@ -82,7 +82,7 @@ namespace CardConnectRestClientExample
             // Cardholder Name
             request.Add("name", "Test User");
             // Cardholder Address
-            request.Add("Street", "123 Test St");
+            request.Add("address", "123 Test St");
             // Cardholder City
             request.Add("city", "TestCity");
             // Cardholder State
@@ -137,7 +137,7 @@ namespace CardConnectRestClientExample
             // Cardholder Name
             request.Add("name", "Test User");
             // Cardholder Address
-            request.Add("Street", "123 Test St");
+            request.Add("address", "123 Test St");
             // Cardholder City
             request.Add("city", "TestCity");
             // Cardholder State
@@ -201,7 +201,7 @@ namespace CardConnectRestClientExample
             // Cardholder Name
             request.Add("name", "Test User");
             // Cardholder Address
-            request.Add("Street", "123 Test St");
+            request.Add("address", "123 Test St");
             // Cardholder City
             request.Add("city", "TestCity");
             // Cardholder State
@@ -260,7 +260,7 @@ namespace CardConnectRestClientExample
             // Cardholder Name
             request.Add("name", "Test User");
             // Cardholder Address
-            request.Add("Street", "123 Test St");
+            request.Add("address", "123 Test St");
             // Cardholder City
             request.Add("city", "TestCity");
             // Cardholder State
